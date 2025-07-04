@@ -1,1 +1,1 @@
-# ConsoleApp1
+# PuppeteerSharp and HtmlAgilityPack to scrap Trustpilot reviews
